@@ -1,0 +1,11 @@
+2024-03-26 14:32:24,353 [main] INFO  com.example.AppTest - Opening Browser
+2024-03-26 14:32:29,610 [main] INFO  com.example.AppTest - UserName Entered Succesfully
+2024-03-26 14:32:29,754 [main] INFO  com.example.AppTest - Password Entered Succesfully
+2024-03-26 14:32:48,777 [main] INFO  com.example.AppTest - Opening Browser
+2024-03-26 14:32:54,071 [main] INFO  com.example.AppTest - UserName Entered Succesfully
+2024-03-26 14:32:54,245 [main] INFO  com.example.AppTest - Password Entered Succesfully
+2024-03-26 15:22:56,524 [main] INFO  com.example.AppTest - Open Google in Chrome Software
+2024-03-26 15:22:59,356 [main] INFO  com.example.AppTest - Google Website opened
+2024-03-26 15:30:55,150 [main] INFO  com.example.AppTest - Opening Browser
+2024-03-26 15:31:00,415 [main] INFO  com.example.AppTest - UserName Entered Succesfully
+2024-03-26 15:31:00,564 [main] INFO  com.example.AppTest - Password Entered Succesfully
